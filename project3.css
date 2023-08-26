@@ -1,0 +1,66 @@
+           body{
+			background-image: url('lms.jpg');
+			background-size: cover;
+		}
+		.left{
+			float: left;
+
+		}
+		.right{
+			float:right;
+		}
+		h1{
+			
+			text-align: left;
+			color: blue;
+		}
+		h1::before{
+			content: "The";
+			color: white;
+		}
+		h2{
+			
+			text-align: left;
+			color: white;
+		}
+		.small{
+			
+			color: white;
+
+		}
+		
+		.submit{
+			
+			background-color: blue;
+			text-decoration-color: black;
+			text-align-last: center;
+			box-shadow: white;
+			text-align: center;
+			width: 510px;
+			height: 40px;
+		}
+		.company{
+			width: 508px;
+			height: 40px;
+			border-color: white;
+			box-shadow: white;
+
+		}
+        .name{
+			width: 250px;
+			height: 40px;
+			border-color: lightblue;
+			box-shadow: lightblue;
+
+        }
+        h3{
+        	color: white;
+        	text-align: center;
+        }
+  
+        p{
+        	color: white;
+        	text-align: left;
+        }
+		
+	
